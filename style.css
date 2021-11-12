@@ -27,6 +27,8 @@ p {
 
 .blog {
     display: flex;
+    padding: 20px;
+    margin: 20px;
 }
 
 img {
