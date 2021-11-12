@@ -29,3 +29,8 @@ img {
     width: 33%;
     height: 33%;
 }
+
+.link {
+    position: sticky;
+    background-color:lightgreen;
+}
