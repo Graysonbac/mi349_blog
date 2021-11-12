@@ -32,6 +32,7 @@ img {
 
 .link {
     position: sticky;
+    position: -webkit-sticky;
     background-color:lightgreen;
     top: 0;
 }
