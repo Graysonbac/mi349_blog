@@ -63,3 +63,10 @@ img {
 float {
     float: right;
 }
+
+@media (max-width: 400px) {
+    body {
+        color: #fff;
+        background-color: black;
+    }
+}
