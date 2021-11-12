@@ -35,7 +35,7 @@ p {
 }
 
 .blogPost:nth-of-type(1) {
-    flex: 300px;
+    flex: 1080px;
 }
 
 img {
