@@ -14,6 +14,8 @@ body {
 h1 {
     font-size: 30px;
     margin: 0;
+    text-align: center;
+
 }
 
 p {
@@ -33,8 +35,8 @@ p {
 }
 
 img {
-    width: 33%;
-    height: 33%;
+    width: 50%;
+    height: 50%;
 }
 
 .link {
